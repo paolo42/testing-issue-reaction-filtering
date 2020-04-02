@@ -1,6 +1,6 @@
 # Repo for testing GraphQL query on issue reactions.
 
-I was curious about how to find out which issues (in a given repository) have a reaction (like etc.) by me. 
+I was curious about how to find out which issues (in a given repository) have a reaction (`like`, `laugh`, comment etc.) by me. 
 I created this repo to test my solution. 
 
 This repository contains only one empty file and this README. Besides this, I used a separate account to open two issues here.
